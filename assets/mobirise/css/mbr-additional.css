@@ -972,5 +972,10 @@ section.lazy-placeholder:after {
 .cid-rVijowMAvZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #5b686b;
+  background-image: url("../../../assets/images/mbr-1-1920x1080.jpg");
+}
+.cid-rVm5YGofYJ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
