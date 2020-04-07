@@ -1347,6 +1347,86 @@ section.lazy-placeholder:after {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
+.cid-rVtU33RmEJ {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rVtU33RmEJ [class^="socicon-"]:before,
+.cid-rVtU33RmEJ [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-rVtU33RmEJ .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #149dcc;
+}
+.cid-rVtU33RmEJ .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-rVtU33RmEJ .btn-social:hover {
+  color: #fff;
+  background: #149dcc;
+}
+.cid-rVtU33RmEJ .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-rVtU33RmEJ .btn-social + .btn {
+  margin-left: .1rem;
+}
+@media (max-width: 767px) {
+  .cid-rVtU33RmEJ .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-rVtSzav2Fz {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rVtSzav2Fz .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-rVtSzav2Fz .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-rVtSzav2Fz .plan-header,
+.cid-rVtSzav2Fz .plan-body {
+  background-color: #fff;
+}
+.cid-rVtSzav2Fz .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-rVtSzav2Fz .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-rVtSzav2Fz .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-rVtSzav2Fz .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-rVtSzav2Fz hr {
+  margin: 2rem 0;
+}
 .cid-rVito4vzX0 {
   padding-top: 90px;
   padding-bottom: 90px;
