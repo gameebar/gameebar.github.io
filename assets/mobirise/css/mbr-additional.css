@@ -721,6 +721,32 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 H1 {
   color: #879a9f;
 }
+.cid-rVt3AKGTFl {
+  background: #ffffff;
+}
+.cid-rVt3AKGTFl .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rVt3AKGTFl .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rVt3AKGTFl figcaption {
+  position: relative;
+}
+.cid-rVt3AKGTFl figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rVt3AKGTFl .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rVt3AKGTFl .mbr-figure-caption div {
+  color: #ffffff;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
